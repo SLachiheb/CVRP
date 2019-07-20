@@ -1,13 +1,28 @@
-# Projet "Ordonnancement et optimisation combinatoire" (Master 2 Androide UPMC)
+# AUTOUR DU PROBLÈME DES TOURNÉES DE TECHNICIENS
 
 
-## Renseignements
+## Auteures
 
-Etudiant :
+Etudiantes :
 
+* Lachiheb	Sarah
 * Leroy 		Cassandre
 
-UPMC 2019
+Sorbonne Université (UPMC) 2019
+
+## Préambule
+
+Le projet qui vous est proposé dans ce module MAOA présente un problème d’Optimisation Combinatoire en Recherche Opérationnelle. Son objectif est de traiter un sujet issu d’un problème industriel jusqu’à la réalisation d’un logiciel de résolution en utilisant différentes méthodes approchées et exactes. Il s’agit ainsi de développer un logiciel permettant de résoudre des instances du problème en tenant compte de sa vitesse d’exécution et surtout sur la qualité de la solution obtenue.
+Nous nous intéressons ici au problème d’Optimisation Combinatoire connu dans la litt ́erature scientifique sous le nom des “Tournées de techniciens” que l’on peut traduire en anglais par “Resource Constrained or Skill-based Routing Problem”.
+Une première partie va s’intéresser au problème classique de tournées de véhicules. Il est à noter que cette partie est assez cadrée.
+Une deuxième partie vous propose d’aborder certains aspects plus vastes et récents des tournées de spécialites. Il est à noter que cette partie abordera davantage de notions issues de travaux de recherche récents.
+
+### Rapport :
+
+Fichiers  |
+------------- | 
+[Consigne](https://github.com/LeroyProjects/Modeles_et_Applications_en_Ordonnancement_et_optimisation_combinAtoire/blob/master/Projet_Production_Routing1819.pdf) |
+[Rapport](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/blob/master/rapport.pdf) |
 
 ## Aide à l'exécution du code
 Pour la partie méthode de résolution par métaheuristique :
@@ -35,12 +50,10 @@ avec la commande "./executable". Puis suivre les instructions du programme.
 - Il sera nécessaire de rentrer à l'intérieur du fichier "main.cpp" le chemin au instance que vous
 souhaiter exécuter.  
 
-## Rendus
+## Code sources
 
-Fichier  |
+Fichiers |
 ------------- | 
-[Enoncé](https://github.com/LeroyProjects/Modeles_et_Applications_en_Ordonnancement_et_optimisation_combinAtoire/blob/master/Projet_Production_Routing1819.pdf) |
-[Rapport](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/blob/master/rapport.pdf) |
 [Métaheuristique](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/tree/master/Metaheuristique) |
 [PLNE](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/tree/master/PLNE/sources) |
 
