@@ -25,6 +25,8 @@ Fichiers  |
 [Rapport](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/rapport.pdf) |
 [Présentation diaporama](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/Pr%C3%A9sentation.pdf) |
 
+Remarque : Il est préférable de consulter le rapport apres téléchargement pour éviter des déplacements d'image causé par gitLab.
+
 ## Aide à l'exécution du code
 Pour la partie méthode de résolution par métaheuristique :
 
