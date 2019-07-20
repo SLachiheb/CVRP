@@ -21,8 +21,9 @@ Une deuxième partie vous propose d’aborder certains aspects plus vastes et r�
 
 Fichiers  |
 ------------- | 
-[Consigne](https://github.com/LeroyProjects/Modeles_et_Applications_en_Ordonnancement_et_optimisation_combinAtoire/blob/master/Projet_Production_Routing1819.pdf) |
-[Rapport](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/blob/master/rapport.pdf) |
+[Consigne](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/Projet_Production_Routing1819.pdf) |
+[Rapport](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/rapport.pdf) |
+[Présentation diaporama](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/blob/master/rapport.pdf) |
 
 ## Aide à l'exécution du code
 Pour la partie méthode de résolution par métaheuristique :
@@ -54,7 +55,7 @@ souhaiter exécuter.
 
 Fichiers |
 ------------- | 
-[Métaheuristique](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/tree/master/Metaheuristique) |
-[PLNE](https://github.com/LeroyProjects/Ordonnancement_et_optimisation_combinatoire/tree/master/PLNE/sources) |
+[Métaheuristique](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/tree/master/Metaheuristique) |
+[PLNE](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/tree/master/PLNE/sources) |
 
 
