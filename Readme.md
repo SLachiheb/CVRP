@@ -1,12 +1,11 @@
 # AUTOUR DU PROBLÈME DES TOURNÉES DE TECHNICIENS
 
 
-## Auteures
+## Auteure
 
-Etudiantes :
+Etudiante :
 
 * Lachiheb	Sarah
-* Leroy 		Cassandre
 
 Sorbonne Université (UPMC) 2019
 
@@ -24,7 +23,7 @@ Fichiers  |
 ------------- | 
 [Consigne](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/Projet_Production_Routing1819.pdf) |
 [Rapport](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/rapport.pdf) |
-[Présentation diaporama](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/MAOA_Presentation.pdf) |
+[Présentation diaporama](https://gitlab.com/ProjetLachiheb/ordonnacement_et_optimisation_combinatoire/blob/master/Pr%C3%A9sentation.pdf) |
 
 ## Aide à l'exécution du code
 Pour la partie méthode de résolution par métaheuristique :
