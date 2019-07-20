@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1548344418 source:c:\users\sarah\desktop\projet_maoa_2\data.cpp
+	"Data.h"
+	<cmath>
+
+1548324042 c:\users\sarah\desktop\projet_maoa_2\data.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+
+1548324171 source:c:\users\sarah\desktop\projet_maoa_2\heuristique.cpp
+	"Heuristique.h"
+
+1548324222 c:\users\sarah\desktop\projet_maoa_2\heuristique.h
+	"Data.h"
+	<cmath>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+	<list>
+	<deque>
+
+1548338803 source:c:\users\sarah\desktop\projet_maoa_2\metaheuristique.cpp
+	"Metaheuristique.h"
+
+1548328883 c:\users\sarah\desktop\projet_maoa_2\metaheuristique.h
+	"Heuristique.h"
+	<ctime>
+
+1548368302 source:c:\users\sarah\desktop\projet_maoa_2\main.cpp
+	"Data.h"
+	"Metaheuristique.h"
+
+1548344418 source:c:\users\sarah\desktop\metaheuristique\data.cpp
+	"Data.h"
+	<cmath>
+
+1548324042 c:\users\sarah\desktop\metaheuristique\data.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+
+1548324171 source:c:\users\sarah\desktop\metaheuristique\heuristique.cpp
+	"Heuristique.h"
+
+1548324222 c:\users\sarah\desktop\metaheuristique\heuristique.h
+	"Data.h"
+	<cmath>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+	<list>
+	<deque>
+
+1548438201 source:c:\users\sarah\desktop\metaheuristique\main.cpp
+	"Data.h"
+	"Metaheuristique.h"
+
+1548328883 c:\users\sarah\desktop\metaheuristique\metaheuristique.h
+	"Heuristique.h"
+	<ctime>
+
+1548338803 source:c:\users\sarah\desktop\metaheuristique\metaheuristique.cpp
+	"Metaheuristique.h"
+
