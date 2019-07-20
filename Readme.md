@@ -13,6 +13,7 @@ Sorbonne Université (UPMC) 2019
 ## Préambule
 
 Le projet qui vous est proposé dans ce module MAOA présente un problème d’Optimisation Combinatoire en Recherche Opérationnelle. Son objectif est de traiter un sujet issu d’un problème industriel jusqu’à la réalisation d’un logiciel de résolution en utilisant différentes méthodes approchées et exactes. Il s’agit ainsi de développer un logiciel permettant de résoudre des instances du problème en tenant compte de sa vitesse d’exécution et surtout sur la qualité de la solution obtenue.
+
 Nous nous intéressons ici au problème d’Optimisation Combinatoire connu dans la litt ́erature scientifique sous le nom des “Tournées de techniciens” que l’on peut traduire en anglais par “Resource Constrained or Skill-based Routing Problem”.
 Une première partie va s’intéresser au problème classique de tournées de véhicules. Il est à noter que cette partie est assez cadrée.
 Une deuxième partie vous propose d’aborder certains aspects plus vastes et récents des tournées de spécialites. Il est à noter que cette partie abordera davantage de notions issues de travaux de recherche récents.
